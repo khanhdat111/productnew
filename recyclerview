@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "ten":"IPHONE 8",
+  "hinhanh":"hinh1.png",
+  "mota":"64GB",
+  "giatien":7000000
+ },
+ {
+  "id": 2,
+  "ten":"IPHONE 10",
+  "hinhanh":"hinh2.png",
+  "mota":"128GB",
+  "giatien":12000000
+ },
+ {
+  "id": 3,
+  "ten":"IPHONE 12",
+  "hinhanh":"hinh3.png",
+  "mota":"128GB",
+  "giatien":18000000
+ },
+ {
+  "id": 4,
+  "ten":"IPHONE 13",
+  "hinhanh":"hinh4.png",
+  "mota":"128GB",
+  "giatien":20000000
+ },
+ {
+  "id": 5,
+  "ten":"IPHONE 14",
+  "hinhanh":"hinh5.png",
+  "mota":"128GB",
+  "giatien":26000000
+ }
+  ]
